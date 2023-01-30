@@ -71,4 +71,137 @@
   .about:hover {
     border-bottom: 1px solid #fff;
   }
+  .blok2 {
+    background-color: white;
+    height: 100vh;
+  }
+  .box1 {
+    width: 733px;
+    height: 483px;
+    padding-left: 500px;
+    padding-top: 250px;
+     
+  }
+  .h2-blok2 {
+
+    font-size: 70px;
+    color: black;
+    font-family: "Poppins", sans-serif;
+   
+  }
+  .content {
+    display: flex;
+    text-align: center;
+    height: 100vh;
+    margin: auto;
+  }
+  .span-blok2 {
+    font-size: 23px;
+  }
+  .read {
+    display: block;
+    font-family: "Poppins";
+    font-weight: 600;
+    width: 210px;
+    height: 50px;
+    background-color: black;
+    text-align: center;
+    padding-top: 20px;
+    color: white;
+    margin: auto;
+    text-decoration: none;
+    font-size: 18px;
+    margin-top: 50px;
+    transition: all 0.3s ease;
+  }
+  .read:hover{
+    background-color: #2E3538;
+    color: #fff;
+  }
+  .blok3{
+    background-color: black;
+   
+  }
+  .h2-blok3{
+    font-size:  70px; 
+     color: white;
+     font-family: "Roboto";
+     padding-top: 111px;
+    padding-bottom: 82px;
+  }
+  
+  .img-1{
+   
+    width: 425px;
+  }
+  .img-2{
+ 
+     width: 425px;
+  }
+  .img-3{
+  
+     width: 425px;
+  }
+  .see {
+    display: block;
+    font-family: "Poppins";
+    font-weight: 600;
+    width: 210px;
+    height: 50px;
+    background-color: white;
+    text-align: center;
+    padding-top: 20px;
+    color: black;
+    margin: auto;
+    text-decoration: none;
+    font-size: 18px;
+    margin-top: 50px;
+    transition: all 0.3s ease;
+  }
+  .see:hover{
+    background-color: #1A1A1A;
+    color: white;
+  }
+  .services{
+   
+    height: 100vh;
+    box-sizing: border-box;
+    font-family: "Roboto";
+  }
+  .services-content{
+    margin: 30px 30px 0px 98px;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .services-title{
+   font-size: 56px;
+   text-transform: uppercase;
+  }
+  .services-left{
+    width: 50%;
+  }
+
+  .services-link{
+    display: block;
+    background-color: black;
+    width: 190px;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    padding: 23px 0px 23px 0px;
+    margin: auto;
+  }
+  .services-right1{
+    list-style: none;
+    font-size: 34px;
+   
+  }
+  .item-number{
+   display: block;
+   font-family: "Roboto";
+   font-weight: 700;
+  }
+
   
